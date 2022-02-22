@@ -1,0 +1,19 @@
+{
+  "cmake.configureOnOpen": false,
+  "discord.enabled": false,
+  "files.associations": {
+    "*.tcc": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "streambuf": "cpp",
+    "functional": "cpp",
+    "iostream": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled"
+}
